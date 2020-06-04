@@ -45,10 +45,10 @@ Event table for [Linear Referencing System (LRS)](https://desktop.arcgis.com/en/
 
 ![MeshBridge](./Screenshots/meshBridge1.PNG)
 
-Visaulisation of clearance space using mesh
+Visualisation of clearance space using mesh
 
 ## :bust_in_silhouette: Authors
 
  - Gabriel Danzl
- - Olaf Wysocki[ \[LinkedIn\]](https://www.linkedin.com/in/olaf-wysocki-24b557148/);[\[GitHub\]](olafwysocki.github.io/)
+ - Olaf Wysocki[ \[LinkedIn\]](https://www.linkedin.com/in/olaf-wysocki-24b557148/);[\[GitHub\]](https://olafwysocki.github.io/)
 
